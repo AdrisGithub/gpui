@@ -14,3 +14,6 @@ The End User also needs to have this program installed
 # Additional Info 
 Just learning go and just needed a quick terminal ui music player 
 aka. the bad code was foreseeable. 
+
+When pausing the current time still traverses because 
+playerctl is kinda garbage and I am too lazy to deal with that error rn
