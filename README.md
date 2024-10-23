@@ -1,5 +1,5 @@
 # GPUI
-A small binary to display the current playing media on linux
+A small binary to display (and kinda control) the current playing media on linux
 
 # Running
 1. Clone this Repository
@@ -10,3 +10,7 @@ A small binary to display the current playing media on linux
 # External Dependencies
 It uses `playerctl` under the hood to abstract the different media players.
 The End User also needs to have this program installed
+
+# Additional Info 
+Just learning go and just needed a quick terminal ui music player 
+aka. the bad code was foreseeable. 
